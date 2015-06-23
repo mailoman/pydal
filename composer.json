@@ -1,0 +1,14 @@
+
+{
+  "name": "mailoman/pydal",
+  "version": "15.05.29",
+  "description": "A pure Python Database Abstraction Layer",
+  "homepage": "http://github.com/mailoman/pydal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mailoman/pydal.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Massimo Di Pierro <mdipierro@cs.depaul.edu> (https://github.com/web2py - web2py team)"
+}
